@@ -1,6 +1,5 @@
-# 👋 Hi, I’m Gabe Irina
-  **Occupation:** Blockchain Solutions Architect  
-  **Company:** Sankore 2.0 (S2)
+# 👋 Hi, I’m Gabe Irina, a Blockchain Solutions Architect
+  
 # 👀 My Interests
   * USSD Application Development
   * Automation
