@@ -9,8 +9,7 @@
 > 🌱 I’m currently learning how to implement the state design pattern for USSD applications
 
 ## 📫 Contact Me
-  **Phone:** +254 794 475 512  
-  **Email:** <irinagabe@outlook.com>  
+  **Phone:** +254 794 475 512   
   **Telegram:** [@irinagabe](https://t.me/irinagabe)  
   **Discord:** @irinagabe#1338
 
