@@ -7,11 +7,12 @@
   * UX Design
   * Blockchain / dApps (Decentralised Applications)  
   
-*🌱 I’m currently learning how to implement the state design pattern for USSD applications*
+> 🌱 I’m currently learning how to implement the state design pattern for USSD applications
 
 # 📫 Contact Me
   **Phone:** +254 794 475 512  
-  **Telegram:** @irinagabe  
+  **Email:** <irinagabe@outlook.com>  
+  **Telegram:** [@irinagabe](https://t.me/irinagabe)  
   **Discord:** Gabe Irina #1338
 
 <!---
