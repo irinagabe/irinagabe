@@ -13,7 +13,7 @@
   **Phone:** +254 794 475 512  
   **Email:** <irinagabe@outlook.com>  
   **Telegram:** [@irinagabe](https://t.me/irinagabe)  
-  **Discord:** Gabe Irina #1338
+  **Discord:** @irinagabe#1338
 
 <!---
 irinagabe/irinagabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
